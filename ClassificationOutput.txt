@@ -1,0 +1,58 @@
+ID:  ANSWER MATCH   SIMILARITY
+
+1:   irish  india   0.4341273854905408
+2:   irish  irish   0.40233103999926184
+3:   irish  china   0.464611674930046
+4:   irish  india   0.4307880509246032
+5:   india  india   0.5404778083266608
+6:   india  india   0.499497478825656
+7:   china  india   0.4570448432029085
+8:   india  africa   0.3809922235210282
+9:   india  india   0.39036943637566357
+10:   irish  india   0.3497206737039391
+11:   irish  india   0.5423672128698224
+12:   africa  india   0.21796782090139774
+13:   india  india   0.4114988095052133
+14:   india  india   0.5634087296371721
+15:   india  africa   0.4621420389018051
+16:   india  africa   0.4051789300489322
+17:   china  irish   0.5088784730715015
+18:   irish  irish   0.6522392121285269
+19:   irish  africa   0.5549450173289285
+20:   india  irish   0.571158074306351
+21:   irish  china   0.4919248459311551
+22:   india  india   0.5970167606619622
+23:   irish  irish   0.4841296150378099
+24:   irish  irish   0.4827435563248484
+25:   irish  china   0.5082142384809389
+26:   india  india   0.4921523989887669
+27:   irish  india   0.46386271196882783
+28:   india  india   0.3874506179355296
+29:   india  china   0.4954846946103558
+30:   irish  india   0.2975748235919114
+31:   india  china   0.40720097618316253
+32:   africa  africa   0.49289974076531506
+33:   india  irish   0.4405892845563966
+34:   africa  india   0.4215693799692764
+35:   irish  china   0.6349350533976824
+36:   india  africa   0.4773927402219858
+37:   irish  india   0.47540033314933205
+38:   india  china   0.8186210938832484
+39:   irish  india   0.4548706175109506
+40:   africa  africa   0.33163256659050105
+41:   india  india   0.42145839547382574
+42:   india  india   0.5590400847798828
+43:   africa  india   0.5546906821173241
+44:   india  india   0.4326842715090269
+45:   china  irish   0.32160464564398056
+46:   africa  india   0.4863124734843447
+47:   africa  africa   0.8610435672293053
+48:   africa  china   0.5504914762116787
+49:   africa  africa   0.35582708572521643
+
+RESULTS 
+
+irish:   4/17, 0.23529411764705882
+india:   11/20, 0.55
+china:   0/3, 0.0
+africa:   4/9, 0.4444444444444444
